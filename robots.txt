@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeremyuzan89-del.github.io/nanah-token/sitemap.xml
