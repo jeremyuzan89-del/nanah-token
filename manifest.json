@@ -1,0 +1,10 @@
+{
+  "name": "Quiz NANAH",
+  "short_name": "NANAH",
+  "description": "L'univers de Rabbi Nahman de Breslev en quiz",
+  "start_url": "quiz.html",
+  "display": "standalone",
+  "background_color": "#120a1c",
+  "theme_color": "#120a1c",
+  "icons": [{ "src": "nanah-logo.png", "sizes": "1024x1024", "type": "image/png" }]
+}
